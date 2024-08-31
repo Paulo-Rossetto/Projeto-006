@@ -31,8 +31,6 @@ body {
     text-align: center;
 }
 
-/* Google & Apple button styling */
-
 .login_form .login_option {
     display: flex;
     width: 100%;
